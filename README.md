@@ -1,6 +1,8 @@
 # Todo 
+
+<img src= "react_todo.JPG" width='100'/>
 ## Description of the Project:
-### Add or delete todos
+#### Add or delete todos
 ## How to Run: 
 Enter details in the text area and press enter to create a new todo. We can remove existing todos as needed.
 
